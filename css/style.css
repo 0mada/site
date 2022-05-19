@@ -16,7 +16,7 @@ font-family: 'Playball', cursive;
 body {
     color: aliceblue;
     background-color: rgb(14, 12, 23);
-    font-family: 'Obidee Sans', cursive;
+    font-family: 'Poiret One', cursive;
 }
 
 ul {
@@ -48,7 +48,7 @@ ul {
   }
   .active {
     font-family: 'Varela Round', sans-serif;
-    background-color: #4287f5;
+    background-color: #d64c42;
   }
 
 h1 {
