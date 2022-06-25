@@ -1,0 +1,23 @@
+.m1 {
+	background-color: black;
+	font-family: monospace;
+	color: lime;
+	font-size: 15px;
+}
+.bk {
+	background-color: black;
+	font-family: monospace;
+	color: lime;
+}
+button {
+	background-color: black;
+	font-family: monospace;
+	color: lime;
+	border-color: lime;
+}
+input {
+	background-color: black;
+	font-family: monospace;
+	color: lime;
+	border-color: lime;
+}
