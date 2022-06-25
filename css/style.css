@@ -17,6 +17,19 @@ font-family: 'Playball', cursive;
     font-family: whitney; /* this is the Discord font */
     src: url('https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-500.woff'); /* i still dont like ukraine :^) */
 }
+/*
+  			body {
+    			text-align: center;
+    			color: white;
+  			}
+			.board {
+				align: center;
+				border: 0px outset gray;
+				width: 50%;
+				margin-left: auto;
+				margin-right: auto;
+			}
+*/
 
 body {
 	background-color: #36393E;
