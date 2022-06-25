@@ -1,23 +1,23 @@
 .m1 {
-	background-color: black;
+	background-color: #1D1F22;
 	font-family: monospace;
-	color: lime;
+	color: white;
 	font-size: 15px;
 }
 .bk {
 	background-color: black;
 	font-family: monospace;
-	color: lime;
+	color: white;
 }
 button {
 	background-color: black;
 	font-family: monospace;
-	color: lime;
-	border-color: lime;
+	color: white;
+	border-color: white;
 }
 input {
-	background-color: black;
+	background-color: #1D1F22;
 	font-family: monospace;
-	color: lime;
-	border-color: lime;
+	color: white;
+	border-color: white;
 }
