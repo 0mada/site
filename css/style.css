@@ -1,10 +1,10 @@
+/* old fonts
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
-/*
 font-family: 'Varela Round', sans-serif;
 font-family: 'Koulen', cursive;
 font-family: 'Odibee Sans', cursive;
@@ -13,48 +13,41 @@ font-family: 'Poiret One', cursive;
 font-family: 'Playball', cursive;
 */
 
-body {
-    color: aliceblue;
-    background-color: rgb(14, 12, 23);
-    font-family: 'Poiret One', cursive;
+@font-face {
+    font-family: whitney; /* this is the Discord font */
+    src: url('https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-500.woff'); /* i still dont like ukraine :^) */
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    font-family: 'Varela Round', sans-serif;
-    float: left;
-  }
-  
-  li a {
-    font-family: 'Varela Round', sans-serif;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    font-family: 'Varela Round', sans-serif;
-    background-color: #111;
-  }
-  .active {
-    font-family: 'Varela Round', sans-serif;
-    background-color: #d64c42;
-  }
+body {
+	background-color: #36393E;
+	font-family: whitney, arial;
+	font-weight: 500;
+	padding: 25px 50px 0px 50px;
+}
 
 h1 {
-    font-family: 'Koulen', cursive;
+	text-align: center;
+	color: #E800E0;
 }
-p.quote {
-    color: red;
-    font-family: 'Playball', cursive;
+
+h2 {
+	text-align: center;
+	color: #E800E0
+}
+
+p {
+	color: #FFFFFF;
+	text-justify: auto;
+}
+
+a:link {
+	color: #E800E0;
+}
+
+a:visited {
+	color: #CE1CE3;
+}
+
+a:active {
+	color: #00FCFF;
 }
