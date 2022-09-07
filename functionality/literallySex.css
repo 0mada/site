@@ -1,0 +1,160 @@
+@keyframes bUbH {
+    from {
+        background-color: brown; 
+        color: white;
+    }
+    to {
+        background-color: white;
+        color: black;
+    }
+}
+
+@keyframes bHbU {
+    from {
+        background-color: white;
+        color: black;
+    }
+    to {
+        background-color: brown; 
+        color: white;
+    }
+}
+
+@keyframes bHbC {
+    from {
+        background-color: white;
+        color: black;
+    }
+    to {
+        background-color: black;
+        color: brown;
+    }
+}
+/* pretty sexy animations */
+
+.buttonHoverAnim {
+    background-color: white;
+    color: black;
+    animation-name: bUbH;
+    animation-duration: 450ms;
+    animation-iteration-count: 1;
+    border-width: 0px;
+    align-items: center;
+}
+
+.buttonClickAnim {
+    background-color: black;
+    color: brown;
+    animation-name: bHbC;
+    animation-duration: 450ms;
+    animation-iteration-count: 1;
+    border-width: 0px;
+    align-items: center;
+}
+
+.buttonUntouchedAnim {
+    background-color: brown; 
+    color: white;
+    animation-name: bHbU;
+    animation-duration: 450ms;
+    animation-iteration-count: 1;
+    border-width: 0px;
+    align-items: center;
+}
+
+/* lods of text styles */
+.textStyle1 {
+    font-family: Arial;
+    font-size: 14px;
+    color: brown;
+}
+
+.textStyle2 {
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+}
+
+.textStyle3 {
+    font-family: Arial;
+    font-size: 18px;
+    color: brown;
+}
+
+.textStyle4 {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+}
+
+.textTitle1 {
+    font-family: Arial;
+    font-size: 42px;
+    color: brown;
+}
+
+.textTitle2 {
+    font-family: Arial;
+    font-size: 21px;
+    color: white;
+}
+
+.textSmall1 {
+    font-family: Arial;
+    font-size: 10px;
+    color: brown;
+}
+
+.textSmall1 {
+    font-family: Arial;
+    font-size: 10px;
+    color: white;
+}
+
+/* kawaii backgrounds >///< */
+
+.bodyGrey{
+    background-color: rgb(37, 37, 37);
+}
+
+.bodyWhite {
+    background-color: white;
+}
+
+.bodyBrown {
+    background-color: brown;
+}
+
+/* alignment~!!!! */
+
+.imageCenter {
+    margin: auto;
+    display: block;
+}
+
+.logoMain {
+    width: 256;
+    height: 114;
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
