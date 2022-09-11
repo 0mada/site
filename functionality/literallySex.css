@@ -40,6 +40,7 @@
     animation-iteration-count: 1;
     border-width: 0px;
     align-items: center;
+    border-radius:5px;
 }
 
 .buttonClickAnim {
@@ -50,6 +51,7 @@
     animation-iteration-count: 1;
     border-width: 0px;
     align-items: center;
+    border-radius:5px;
 }
 
 .buttonUntouchedAnim {
@@ -60,6 +62,7 @@
     animation-iteration-count: 1;
     border-width: 0px;
     align-items: center;
+    border-radius:5px;
 }
 
 /* lods of text styles */
@@ -157,4 +160,5 @@ button {
     text-align: center;
     margin: auto;
     display: block;
+    border-radius:5px;
 }
