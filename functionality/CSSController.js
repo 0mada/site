@@ -1,5 +1,3 @@
-const link9b9t = "https://9b9t.com/";
-const linkHistory = "https://www.omada.pw/history";
 const linkDiscord = "https://join.omada.pw/";
 const linkGithub = "https://github.com/OmadaDevel";
 const linkHome = "https://www.omada.pw/";
