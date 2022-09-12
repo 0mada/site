@@ -25,18 +25,12 @@ elementsByName.forEach(function(item, ind) {
         if (item.id == "toHome") {
             window.location.href = linkHome;
         }
-        if (item.id == "toHistory") {
-            window.location.href = linkHistory;
-        }
         if (item.id == "toDiscord") {
             window.location.href = linkDiscord;
             //aka racist nether portal
         }
         if (item.id == "toGithub") {
             window.location.href = linkGithub;
-        }
-        if (item.id == "to9b9t") {
-            window.location.href = link9b9t;
         }
     });
 });
