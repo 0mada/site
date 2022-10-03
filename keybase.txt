@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shibeta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.omada.pw
+  * I am shibeta (https://keybase.io/shibeta) on keybase.
+  * I have a public key ASBmbZEhF3OIxF7h0jYl4Fuo0IbtuYq0M2NpjaLwpgHn-wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120666d9121177388c45ee1d23625e05ba8d086edb98ab43363698da2f0a601e7fb0a",
+      "host": "keybase.io",
+      "kid": "0120666d9121177388c45ee1d23625e05ba8d086edb98ab43363698da2f0a601e7fb0a",
+      "uid": "f3d02751b064ff2d88f24adab1831619",
+      "username": "shibeta"
+    },
+    "merkle_root": {
+      "ctime": 1664825045,
+      "hash": "6ce07ae766f32470ac69244f6c041ac36197df7f082e52ca0becf91016b932abff34801294205df994912fccc6897a65df9402d6b2466de6d6970446ac337711",
+      "hash_meta": "cf972fe16f5b2d141f71d7a5e72530b06e2d967e800cc8d676098793f983afed",
+      "seqno": 23304509
+    },
+    "service": {
+      "entropy": "o7z20xwOwpv2j2ZAL0qHqd8y",
+      "hostname": "www.omada.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1664825105,
+  "expire_in": 504576000,
+  "prev": "cf98fb47872ba7a39605491bbcffc4a5c399da4c94008d4847c3a19641a10712",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZm2RIRdziMRe4dI2JeBbqNCG7bmKtDNjaY2i8KYB5/sKp3BheWxvYWTESpcCBsQgz5j7R4crp6OWBUkbvP/EpcOZ2kyUAI1IR8OhlkGhBxLEIEP0Tg3rP406SHyeoC5NRl4yy3q4i8/W/ntDSrGIUuk4AgHCo3NpZ8RAkvEJbBWqxR7k9gtrRcqxXDkOvJlGg3HqxzVjTqfokjOOvbPJdbi7Lfx4JVqYtxVECaRCxO0I+4dVBy9Eajt0DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINet+GrhTXv5op2Ay8F+65tvpgxLPzO6gooLOSbxyGX9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shibeta
+
+==================================================================
