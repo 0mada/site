@@ -1,4 +1,4 @@
-const linkDiscord = "https://join.omada.pw/";
+const linkDiscord = "https://omada.pw/nocord";
 const linkGithub = "https://github.com/OmadaDevel";
 const linkHome = "https://www.omada.pw/";
 //click for free robux and unpaid pizza at your door
