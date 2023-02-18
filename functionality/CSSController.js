@@ -35,6 +35,7 @@ elementsByName.forEach(function(item, ind) {
         if (item.id == "toGithub") {
             window.location.href = linkGithub;
         }
+    }};
 });
 /*
 for (const i in elementsByName) {
