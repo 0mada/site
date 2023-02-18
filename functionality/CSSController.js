@@ -1,7 +1,7 @@
 const linkDiscord = "https://discord.gg/VNQ6QkZG";
 const linkGithub = "https://github.com/OmadaDevel";
 const linkHome = "https://www.omada.pw/";
-const linkMatrix = "https://omada.pw/nocord";
+const linkMatrix = "https://omada.pw/nocord.html";
 //click for free robux and unpaid pizza at your door
 
 const elementsByName = document.getElementsByName("affectedButton");
@@ -24,15 +24,15 @@ elementsByName.forEach(function(item, ind) {
         if (item.id == "toHome") {
             window.location.href = linkHome;
         }
+        if (item.id == "toMatrix") {
+            window.location.href = linkMatrix;
+        }
         if (item.id == "toDiscord") {
             window.location.href = linkDiscord;
             //aka racist nether portal
         }
         if (item.id == "toGithub") {
             window.location.href = linkGithub;
-        }
-        if (item.id == "toMatrix") {
-            window.location.href = linkMatrix;
         }
     });
 });
