@@ -30,6 +30,8 @@ elementsByName.forEach(function(item, ind) {
         }
         if (item.id == "toGithub") {
             window.location.href = linkGithub;
+        if (item.id == "toMatrix") {
+            window.location.href = linkMatrix;
         }
     });
 });
