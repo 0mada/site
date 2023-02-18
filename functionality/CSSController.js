@@ -1,6 +1,7 @@
-const linkDiscord = "https://omada.pw/nocord";
+const linkDiscord = "https://discord.gg/VNQ6QkZG";
 const linkGithub = "https://github.com/OmadaDevel";
 const linkHome = "https://www.omada.pw/";
+const linkMatrix = "https://omada.pw/nocord";
 //click for free robux and unpaid pizza at your door
 
 const elementsByName = document.getElementsByName("affectedButton");
