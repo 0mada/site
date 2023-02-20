@@ -10,5 +10,3 @@ window.onpointermove = event => {
     top: `${clientY}px`
   }, { duration: 3000, fill: "forwards" });
 }
-
-/* future */
