@@ -1,4 +1,4 @@
-# <a href=https://0mada.github.io/site>0mada.github.io/site
+# <a href=https://omada.pw>omada.pw
 
 What do I put here
 
