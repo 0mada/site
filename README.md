@@ -7,3 +7,4 @@ everything
 First major Site Redesign by @luxsemper
 
 Newest redesign using newcss, this is suspected to be temporary 
+// I don't think its temporary.
