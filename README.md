@@ -1,4 +1,4 @@
-# <a href=https://omada.pw>omada.pw
+# <a href=https://omada.cafe>omada
 
 What do I put here
 
