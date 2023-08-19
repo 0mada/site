@@ -1,4 +1,4 @@
-# <a href=https://omada.cafe>omada
+# we are moving to a self hosted git instance, this repo will be deprecated and deleted by 1st September 2023
 
 What do I put here
 
