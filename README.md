@@ -1,9 +1,3 @@
-# we are moving to a self hosted git instance, this repo will be deprecated and deleted by 1st September 2023
+this repo has been moved
 
-What do I put here
-
-everything
-
-First major Site Redesign by @luxsemper
-
-Newest redesign using newcss, this is suspected to be temporary 
+https://codeberg.org/omada/website
